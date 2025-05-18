@@ -9,7 +9,7 @@
         font-family: Arial, sans-serif;
         background-color: #f4f4f4;
 
-        background-image: url("Welcome.png");
+        background-image: url("Welcome.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;

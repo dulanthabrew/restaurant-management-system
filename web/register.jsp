@@ -7,7 +7,7 @@
       body {
         font-family: Arial, sans-serif;
         background-color: #f4f4f4;
-        background-image: url("Registrationbg.png");
+        background-image: url("Registrationbg.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
